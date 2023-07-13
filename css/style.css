@@ -64,8 +64,8 @@ footer {
     grid-template-areas:
         "header"
         "main"
-        "aside"
-        "footer";
+        "footer"
+        "aside";
     }
     aside {
     grid-area: aside;

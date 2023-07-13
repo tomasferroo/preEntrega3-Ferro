@@ -26,3 +26,10 @@ main {
 main div{
     padding: 20px;
 }
+.contacto{
+    height: 380px;
+    width: 200px;
+    background-color: #eee;;
+    text-align: center;
+    padding-left: 995px;
+}
