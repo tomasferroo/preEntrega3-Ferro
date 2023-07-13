@@ -37,11 +37,12 @@ aside {
 }
 aside div{
     cursor: pointer;
-    height: 100px;
+    height: 130px;
     width: 380px;
     background-color: #eee;
     text-align: center;
 }
+
 footer {
     grid-area: footer;
     display: grid;
