@@ -19,7 +19,7 @@ body {
 }
 header {
     grid-area: header;
-    background-color: #33248F;
+    background-image: linear-gradient(#33248F, rgb(76, 76, 135));
     padding: 20px;
 }
 .responsive-image {
