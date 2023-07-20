@@ -39,6 +39,10 @@ header {
 main {
     grid-area: main;
     padding: 20px;
+}
+.main{
+    grid-area: main;
+    padding: 20px;
     text-align: center;
 }
 main div{
